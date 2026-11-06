@@ -1,0 +1,17 @@
+p {
+    padding: 20px 10px;
+    border: 1px solid #ccc;
+    margin: 20px;
+
+
+}
+
+span {
+    text-transform: uppercase;
+    color: red;
+    font-family: "New Times Roman", serif;
+}
+
+* {
+    box-sizing: border-box;
+}
