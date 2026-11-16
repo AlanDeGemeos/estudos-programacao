@@ -1,0 +1,12 @@
+.container {
+    height: 300px;
+    display: flex;
+    align-items: center;
+}
+
+.caixa {
+    background-color: steelblue;
+    padding: 20px;
+    margin: 10px;
+    color: white;
+}
