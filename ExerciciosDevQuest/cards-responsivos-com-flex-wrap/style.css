@@ -1,0 +1,10 @@
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cards div {
+    width: 200px;
+    height: 150px;
+    border: 1px solid black;
+}
